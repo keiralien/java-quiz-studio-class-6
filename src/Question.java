@@ -1,9 +1,16 @@
 public abstract class Question {
     private int questionID;
+    private static int nextID = 1;
     private String questionType;
     private String questionText;
 
+    public Question() {
+        questionID = nextID;
+        nextID++;
+    }
+
     public Question(int questionID, String questionType, String questionText) {
+        this();
         questionID = questionID;
         questionType = questionType;
         questionText = questionText;
