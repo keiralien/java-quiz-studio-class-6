@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6266ce93-5a36-4086-9937-5cfbb4d6f53c" name="Default Changelist" comment="" />
+    <list default="true" id="6266ce93-5a36-4086-9937-5cfbb4d6f53c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MultiChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrueFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WzzJCwCetIvAG20Y4udfKBtOqn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,9 +60,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="801" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1580168407934">
+    <state x="801" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1580263824575">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="801" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1563.1002@0.0.1563.1002" timestamp="1580168407934" />
+    <state x="801" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1563.1002@0.0.1563.1002" timestamp="1580263824575" />
+    <state x="658" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1580265797135">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="658" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1563.1002@0.0.1563.1002" timestamp="1580265797135" />
   </component>
 </project>

@@ -1,6 +1,13 @@
-public class Question {
+public abstract class Question {
     private int questionID;
+    private String questionType;
     private String questionText;
+
+    public Question(int questionID, String questionType, String questionText) {
+        questionID = questionID;
+        questionType = questionType;
+        questionText = questionText;
+    }
 
     public int getQuestionID() {
         return questionID;
@@ -16,5 +23,13 @@ public class Question {
 
     public void setQuestionText(String questionText) {
         this.questionText = questionText;
+    }
+
+    public String getQuestionType() {
+        return questionType;
+    }
+
+    public void setQuestionType(String questionType) {
+        this.questionType = questionType;
     }
 }
